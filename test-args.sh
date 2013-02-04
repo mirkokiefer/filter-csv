@@ -1,0 +1,1 @@
+./main.js -i ./test/test.csv -o ./test/filtered.csv -c "description" -r "wunder"

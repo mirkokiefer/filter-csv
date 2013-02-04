@@ -1,0 +1,19 @@
+{
+  "name": "csv-filter",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": "",
+  "author": "Mirko Kiefer <mail@mirkokiefer.com>",
+  "license": "BSD",
+  "dependencies": {
+    "csv": "~0.2.6",
+    "optimist": "~0.3.5"
+  }
+}
